@@ -1,1 +1,1 @@
-# Classification
+Classification with Toy Dataset
